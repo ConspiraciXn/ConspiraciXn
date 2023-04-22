@@ -17,6 +17,3 @@ Python, Django, JavaScript, Vue.js 3, AJAX, jQuery, HTML, CSS, Tailwind, Bootstr
 
 Si quieres conversar sobre algún proyecto tecnológico, no dudes en escribirme: jared.sl@icloud.com 
 
-
-![Logo](https://media.tenor.com/i361yqhsMikAAAAC/hello-hey.gif)
-
